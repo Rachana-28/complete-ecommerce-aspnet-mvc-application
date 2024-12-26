@@ -7,7 +7,7 @@ namespace eTickets.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         //AppDbContext = constructor
         //DbContextOptions = Parameter
-        //AppDbContext = Parameter Filename
+        //AppDbContext = Parameter of the Filename
         //options = Parameter name options
         //base = pass the parameter options to baseclass using base keyword
         {
